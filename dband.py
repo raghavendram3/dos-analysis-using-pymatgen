@@ -5,8 +5,7 @@ VASP Density of States (DOS) Analysis for d-Band Electronic Properties
 This script analyzes the electronic structure properties of d-orbitals from VASP calculations,
 computing various statistical parameters for both spin-up and spin-down channels.
 
-Author: Generated from original analysis code
-Dependencies: pymatgen
+Dependencies: pymatgen, vasprun
 """
 
 import matplotlib.pyplot as plt
