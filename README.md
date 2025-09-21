@@ -24,8 +24,7 @@ The script calculates various statistical and electronic properties of d-bands:
 
 ## Key Parameters
 
-- **Target Site**: Site index 161 (162nd atom, 0-indexed)
-- **Orbital Type**: d-orbitals
+- **Orbital Type**: p/d-orbitals
 - **Energy Range**: 
   - For band center, skewness, and kurtosis: -15 to +15 eV relative to Fermi level
   - For band width: -15 to 0 eV (occupied states only)
